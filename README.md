@@ -1,6 +1,6 @@
 # lungsound_detector
 
-A new Flutter project.
+this is a desktop application user interface of our lung sound classification system project 
 
 ## Getting Started
 
@@ -8,9 +8,6 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+display out put : 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![iyfi](https://user-images.githubusercontent.com/99733653/210591566-be6cfb3a-9a2a-489a-aeae-8249f038961e.png)
